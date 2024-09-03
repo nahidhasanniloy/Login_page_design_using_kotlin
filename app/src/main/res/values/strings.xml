@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">quizApps</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account ? Sign Up</string>
+    <string name="please_login_to_continue_using_app">Please Login to Continue using App</string>
+</resources>
